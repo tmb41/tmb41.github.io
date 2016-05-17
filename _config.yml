@@ -1,0 +1,21 @@
+# Site settings
+title: Tylor Balson's Blog
+header-img: img/home-bg.png
+email: tylor.balson@gmail.com
+copyright_name: tmb41
+description: > # this means to ignore newlines until "baseurl:"
+  aka entry into The Matrix
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  tmb41
+learn_profile: tmb41
+email_username: tylor.balson@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
