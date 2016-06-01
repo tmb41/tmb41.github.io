@@ -4,9 +4,9 @@ header-img: img/home-bg.png
 email: tylor.balson@gmail.com
 copyright_name: tmb41
 description: > # this means to ignore newlines until "baseurl:"
-  aka entry into The Matrix
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: https://twitter.com/Tylorbalson
 github_username:  tmb41
 learn_profile: tmb41
 email_username: tylor.balson@gmail.com
