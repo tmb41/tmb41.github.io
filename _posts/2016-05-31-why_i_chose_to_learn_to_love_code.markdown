@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Why I chose to Learn to Love Code"
-date:   2016-05-31 23:02:53 +0000
+date:   2016-05-31 19:02:53 -0400
 ---
 
 After coming from a technical background of Industrial Engineering, and going into Mergers & Acquisitions, I was somewhat surprised, and let down, at the processes and systems inside Investment Banks and the financial industry as a whole. How could it be that the sector so pivotal to the United States' economy largely lags behind technologically -- and even further, shuns innovation? 
-<center>![](http://s.wsj.net/public/resources/images/BN-CN664_gdpind_G_20140425142848.jpg)</center>
+![](http://s.wsj.net/public/resources/images/BN-CN664_gdpind_G_20140425142848.jpg)
 
 Industrial Engineering is a branch of engineering which deals with the optimization of complex processes or systems. Industrial engineers work to eliminate waste of time, money, man-hours, energy and other resources that do not generate value. While I learned a lot about valuation, deal processes, and transactions... it certainly seemed like there was a lot of waste in the industry. I began to see how I could do my job better if I knew code, and just how much more blue-sky there is from an opportunities standpoint through learning computer languages. For example:
 
